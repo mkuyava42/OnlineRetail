@@ -119,3 +119,8 @@ indicate a cancellation.
    `02_sql_analysis.ipynb` → `03_segmentation_python.ipynb`.
 5. Open `OnlineRetailDashboard.pbix` in Power BI Desktop, pointing at the
    CSVs in `outputs/`.
+
+   ## Dashboard
+ 
+![Power BI Dashboard](images/OnlineRetailPowerBI.png)
+
